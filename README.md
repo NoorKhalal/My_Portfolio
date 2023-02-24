@@ -24,7 +24,7 @@ Il s'agit d’aborder le problème de conception du jeu en compartimentant bien 
 
 ![](/images/petRescue.png)
 
-# [AUtre travaux: Apprentissage Supervisé](https://github.com/NoorKhalal/Suppervised-ML/blob/main/README.md)
+# [Autres travaux: Apprentissage Supervisé](https://github.com/NoorKhalal/Suppervised-ML/blob/main/README.md)
 Quelques notebook que j'ai suivi en auivant les cours d'apprentissage supervisé:
 - L'Évaluation des modeles de classification.
 - Regression Logistique.
