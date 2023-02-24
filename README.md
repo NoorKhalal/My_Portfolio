@@ -1,6 +1,6 @@
 # Noor's Portfolio
 
-Ceci est un Portfolio qui regroupe quelques uns de mes projets
+Ceci est un Portfolio qui regroupe quelques uns de mes projets et travaux.
 
 # [Projet 1: Your Daily Dashboard](https://github.com/hamel-amir/Dashboard-Meteo)
 Un dashboard qui affiche la météo, la qualité de l’air et la disponibilité de vélos dans différentes régions de France, ainsi que l’horoscope journalier.
@@ -23,3 +23,10 @@ Ce projet est basé sur le jeu Pet Rescue Saga qui peut etre essayé gratuitemen
 Il s'agit d’aborder le problème de conception du jeu en compartimentant bien les différents aspects, en offrant le choix de jouer via terminal ou sur interface graphique.
 
 ![](/images/petRescue.png)
+
+# [AUtre travaux: Apprentissage Supervisé](https://github.com/NoorKhalal/Suppervised-ML/blob/main/README.md)
+Quelques notebook que j'ai suivi en auivant les cours d'apprentissage supervisé:
+- L'Évaluation des modeles de classification.
+- Regression Logistique.
+- Regression Logistique multiple linear.
+- Signification statistique.
