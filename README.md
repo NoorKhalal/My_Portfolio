@@ -14,7 +14,7 @@ Les systèmes de vélos en libre-service sont une nouvelle génération de locat
  - Exploration, analyse et nettoyage de données. 
  - Prédictions à l'aide du modèle ARIMA.
 
-# [Projet 3:](https://github.com/NoorKhalal/Pet-Rescue)
+# [Projet 3: Pet Rescue](https://github.com/NoorKhalal/Pet-Rescue)
 Ce projet est basé sur le jeu Pet Rescue Saga qui peut etre essayé gratuitement sur votre téléphone.
 
 Il s'agit d’aborder le problème de conception du jeu en compartimentant bien les différents aspects, en offrant le choix de jouer via terminal ou sur interface graphique.
