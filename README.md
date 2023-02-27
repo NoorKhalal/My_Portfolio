@@ -1,6 +1,6 @@
-# Noor's Portfolio
 
-Ceci est un Portfolio qui regroupe quelques uns de mes projets et travaux.
+
+### Ceci est un Portfolio qui regroupe quelques uns de mes projets et travaux universitaires.
 
 # [Projet 1: Your Daily Dashboard](https://github.com/hamel-amir/Dashboard-Meteo)
 Un dashboard qui affiche la météo, la qualité de l’air et la disponibilité de vélos dans différentes régions de France, ainsi que l’horoscope journalier.
